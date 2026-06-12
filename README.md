@@ -9,32 +9,19 @@ I am a Computer Science student and an aspiring Full-Stack Developer passionate 
 
 ### Backend & Core Languages
 
-* React
-* Node.js
-* C/C++
-* JavaScript
-* Python
-* MySQL
+* React  * Node.js  * C/C++  * JavaScript  * Python  * MySQL
 
 ### Frameworks
 
-* Django
-* Express.js
+* Django  * Express.js
 
 ### Databases
 
-* MongoDB
-* MySQL
-* Firebase
-* PostgreSQL
+* MongoDB  * MySQL  * Firebase  * PostgreSQL
 
 ### Cloud & DevOps
 
-* AWS
-* Docker
-* GitHub
-* Jenkins
-* Selenium
+* AWS  * Docker  * GitHub  * Jenkins  * Selenium
 
 ##  Interests
 
