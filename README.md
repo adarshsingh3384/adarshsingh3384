@@ -1,5 +1,53 @@
 # 💫 About Me:
-Hi, I Am Adarsh Singh, a Computer Science student and aspiring Full-Stack Developer. I enjoy building web applications, exploring software development, and working on innovative projects that solve real-world problems.<br>Backend and Core Languages : React, Node.js,  C/C++, JavaScript, Python , MySql<br>Frameworks : Django, Express.js<br>Databases : MongoDB, MySQL, Firebase, PostqreSQL<br>Cloud and DevOps :  AWS, Docker, GIt/Github, Jankins, Selenium<br>
+# Hi, I'm Adarsh Singh 
+
+### Computer Science Student | Aspiring Full-Stack Developer
+
+I am a Computer Science student and an aspiring Full-Stack Developer passionate about building modern web applications, exploring software development, and creating innovative solutions to real-world problems.
+
+##  Technical Skills
+
+### Backend & Core Languages
+
+* React
+* Node.js
+* C/C++
+* JavaScript
+* Python
+* MySQL
+
+### Frameworks
+
+* Django
+* Express.js
+
+### Databases
+
+* MongoDB
+* MySQL
+* Firebase
+* PostgreSQL
+
+### Cloud & DevOps
+
+* AWS
+* Docker
+* GitHub
+* Jenkins
+* Selenium
+
+##  Interests
+
+* Full-Stack Web Development
+* Software Engineering
+* Cloud Computing
+* Open Source Contributions
+* Problem Solving & Innovation
+
+##  Career Objective
+
+To leverage my technical skills and passion for software development to build impactful applications, continuously learn emerging technologies, and contribute to meaningful projects.
+
 
 
 ## 🌐 Socials:
