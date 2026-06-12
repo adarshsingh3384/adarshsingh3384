@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Hi, I'm Adarsh Singh 
 
 ### Computer Science Student | Aspiring Full-Stack Developer
