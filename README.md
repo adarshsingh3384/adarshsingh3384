@@ -4,24 +4,6 @@
 
 I am a Computer Science student and an aspiring Full-Stack Developer passionate about building modern web applications, exploring software development, and creating innovative solutions to real-world problems.
 
-##  Technical Skills
-
-### Backend & Core Languages
-
-* React  * Node.js  * C/C++  * JavaScript  * Python  * MySQL
-
-### Frameworks
-
-* Django  * Express.js
-
-### Databases
-
-* MongoDB  * MySQL  * Firebase  * PostgreSQL
-
-### Cloud & DevOps
-
-* AWS  * Docker  * GitHub  * Jenkins  * Selenium
-
 ##  Interests
 
 * Full-Stack Web Development
